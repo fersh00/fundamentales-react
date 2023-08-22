@@ -21,4 +21,7 @@ module.exports = {
 	},
 	plugins: ['react'],
 	rules: {},
+	settings: {
+		ecmaVersion: 'detect',
+	},
 };
